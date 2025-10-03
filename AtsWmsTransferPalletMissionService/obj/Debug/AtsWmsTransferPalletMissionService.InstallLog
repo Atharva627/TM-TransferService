@@ -1,0 +1,64 @@
+﻿Installing assembly 'D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.InstallLog
+   assemblypath = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe assembly.
+Committing assembly 'D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.InstallLog
+   assemblypath = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.InstallLog
+   assemblypath = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe
+Installing service AtsWmsTransferPalletMissServSetupTM...
+Service AtsWmsTransferPalletMissServSetupTM has been successfully installed.
+Creating EventLog source AtsWmsTransferPalletMissServSetupTM in log Application...
+Committing assembly 'D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.InstallLog
+   assemblypath = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe
+Installing assembly 'D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.InstallLog
+   assemblypath = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe
+   logtoconsole = 
+Installing service AtsWmsTransferPalletMissServSetupTM...
+Creating EventLog source AtsWmsTransferPalletMissServSetupTM in log Application...
+Rolling back assembly 'D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.InstallLog
+   assemblypath = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe
+   logtoconsole = 
+Restoring event log to previous state for source AtsWmsTransferPalletMissServSetupTM.
+Uninstalling assembly 'D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.InstallLog
+   assemblypath = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe
+Removing EventLog source AtsWmsTransferPalletMissServSetupTM.
+Service AtsWmsTransferPalletMissServSetupTM is being removed from the system...
+Service AtsWmsTransferPalletMissServSetupTM was successfully removed from the system.
+Installing assembly 'D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.InstallLog
+   assemblypath = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe
+   logtoconsole = 
+Installing service AtsWmsTransferPalletMissServSetupV1...
+Service AtsWmsTransferPalletMissServSetupV1 has been successfully installed.
+Creating EventLog source AtsWmsTransferPalletMissServSetupV1 in log Application...
+Committing assembly 'D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.InstallLog
+   assemblypath = D:\TM\AtsWmsTransferPalletMissionService\AtsWmsTransferPalletMissionService\obj\Debug\AtsWmsTransferPalletMissionService.exe
+   logtoconsole = 
